@@ -11,5 +11,3 @@ For running:
 python keras_server.py
 2. go to browser and type **localhost:5000** to access the site
 3. enjoy
-
-
